@@ -51,7 +51,7 @@ Data Analysis Using Power BI
 
 1. Formula to create normalize_sales_amount column
 
-`= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
+`= Table.AddColumn(#"Filtered Rows", "normalize_sales_amount", each if  [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
 
 
 
