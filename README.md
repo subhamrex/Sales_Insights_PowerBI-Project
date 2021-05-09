@@ -6,6 +6,8 @@
 
 2. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it. Besides make sure that your mysql server is running.After that connect  Mysql in Power BI.
 
+<img src="https://i.imgur.com/RKPa1jF.png"/>
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
