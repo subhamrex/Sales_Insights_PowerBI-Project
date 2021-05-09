@@ -2,9 +2,9 @@
 
 ### Instructions to setup mysql on your local computer
 
-1. Follow step in this video to install mysql on your local computer
+1. Install mysql on your local computer
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+2. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it. Besides make sure that your mysql server is running.After that connect  Mysql in Power BI.
 
 ### Data Analysis Using SQL
 
